@@ -33,4 +33,7 @@ This task focuses on integrating real-time weather data from an API, processing 
 - Apply **Matplotlib Dates (mdates)** to manage date/time formatting and ensure clear x-axis labels in visualizations.  
 
 ---
+### OUTPUT
+1>>>
+![Image](https://github.com/user-attachments/assets/7aeb3dc1-d689-4417-a22c-01b984a3da53)
 
