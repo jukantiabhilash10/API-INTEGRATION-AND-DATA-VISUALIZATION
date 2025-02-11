@@ -37,3 +37,6 @@ This task focuses on integrating real-time weather data from an API, processing 
 1>>>
 ![Image](https://github.com/user-attachments/assets/7aeb3dc1-d689-4417-a22c-01b984a3da53)
 
+2>>>
+![Image](https://github.com/user-attachments/assets/3055fd2a-3527-4ee6-9bed-8f470d784285)
+
