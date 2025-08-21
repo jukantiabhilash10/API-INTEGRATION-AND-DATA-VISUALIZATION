@@ -51,18 +51,18 @@ This internship project covers integrating real-time weather data via the OpenWe
 3. **Run the main script:**
 
     ```
-    python your_script_name.py
+    python whether_visualization.py
     ```
 
-    *(Replace `your_script_name.py` with the actual name of your main Python script.)*
+---
 
 ## 🗂 Project Structure
 
 API-INTEGRATION-AND-DATA-VISUALIZATION/
-├── main_script.py (or your main script file)
+├── whether_visualization.py 
 ├── README.md
 ├── requirements.txt
-└── additional_modules_or_files.py
+└── additional_modules_or_files
 
 ---
 
